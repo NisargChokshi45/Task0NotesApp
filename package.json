@@ -1,0 +1,14 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Application to Create, Read & Store Notes from Command Line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NotesApp"
+  ],
+  "author": "Nisarg Chokshi",
+  "license": "ISC"
+}
