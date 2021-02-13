@@ -1,3 +1,6 @@
+// --------------------------------------------------------
+// Challenge 3 : Use the Chalk library in your Project
+// --------------------------------------------------------
 const chalk = require("chalk");
 
 console.log(chalk.inverse.bold("Hello World !"));

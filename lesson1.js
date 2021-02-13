@@ -6,7 +6,9 @@ const fs = require("fs");
 // const data = fs.readFileSync("./sample.txt", { encoding: "utf-8" });
 // console.log(data);
 
-// // Challenge 1 : Append a Message to sample.txt using appendFileSync()
+// ---------------------------------------------------------------------------------
+// Challenge 1 : Append a Message to sample.txt using appendFileSync()
+// ---------------------------------------------------------------------------------
 // fs.appendFileSync("./sample.txt", "This line is getting Appended at the end of the File.", { encoding: "utf-8" });
 // const updatedData = fs.readFileSync("./sample.txt", { encoding: "utf-8" });
 // console.log(updatedData);

@@ -1,4 +1,6 @@
+// ----------------------------------------------------------
 // Challenge 2 : Define and use a function in a new file
+// ----------------------------------------------------------
 
 const showName = (name) => {
     console.log(`Hello ${name} !`);
