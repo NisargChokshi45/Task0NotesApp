@@ -10,5 +10,8 @@
     "NotesApp"
   ],
   "author": "Nisarg Chokshi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
 }
